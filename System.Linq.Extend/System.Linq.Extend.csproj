@@ -2,6 +2,19 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.1</TargetFramework>
+    <PackageId>Linq.Extend</PackageId>
+    <Title>Linq.Extend</Title>
+    <Authors>eng.mustafak26@gmail.com</Authors>
+    <PackageProjectUrl>https://github.com/engmustafak26/System.Linq.Extend</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/engmustafak26/System.Linq.Extend</RepositoryUrl>
+    <PackageIcon>icon.png</PackageIcon>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\icon.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
 
 </Project>
